@@ -1,4 +1,4 @@
-package Pages;
+package pages;
 
 import elementos.ElementosWeb;
 import io.cucumber.java.en.Given;
