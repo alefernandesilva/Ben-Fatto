@@ -10,7 +10,7 @@ Feature: Teste regressivo Ben Fatto
     And preencho o nome "Teste"
     And preencho o empresa "Teste"
     And preencho o email "alefernandes26@gmail.com"
-    And preencho o telefone "1199998888"
+    And preencho o telefone "11999998888"
     And preencho a mensagem "Teste para validar o projeto de automacao"
     And clico em enviar
     Then sistema exibe mensagem de sucesso
